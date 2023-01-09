@@ -1,3 +1,5 @@
-# C2C-Elite-101
-A repository for the C2C Elite 101 program.
-Part of the Elite Qualifier Project
+# Introduction
+This is a repository created by *Ezinne*
+## Usage
+Run this command to execute the application:
+'python filename.py'
